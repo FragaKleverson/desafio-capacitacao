@@ -1,3 +1,4 @@
+Descrição: Arquivo principal do desafio de capacitação Git.
 Commit: Tentativa número 47
 
 public class GitCommit {
