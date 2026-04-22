@@ -1,0 +1,33 @@
+Commit: Tentativa número 47
+
+public class GitCommit {
+
+    public static void main(String[] args) {
+
+        String commitMessage = "Agora vai, confia";
+
+        System.out.println(commitMessage);
+
+        /*
+         * git status
+         * git add .
+         * git commit -m "corrigindo erro que eu mesmo criei"
+         *
+         * Resultado esperado:
+         * Funcionar
+         *
+         * Resultado real:
+         * Quebrar algo que estava funcionando ontem
+         */
+
+    }
+}
+
+/*
+ * Nota do QA:
+ * Testei.
+ * Quebrou.
+ * Testei de novo.
+ * Quebrou diferente.
+ */
+``
