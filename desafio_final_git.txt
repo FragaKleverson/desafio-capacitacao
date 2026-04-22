@@ -30,4 +30,3 @@ public class GitCommit {
  * Testei de novo.
  * Quebrou diferente.
  */
-``

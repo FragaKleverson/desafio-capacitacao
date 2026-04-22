@@ -1,0 +1,16 @@
+Branch: feature-agora-vai 
+
+public class FeatureAgoraVai {
+
+    public static void main(String[] args) {
+        System.out.println("Nova branch criada com sucesso!");
+        System.out.println("Se der conflito, a culpa é do merge 😅");
+    }
+}
+
+/*
+ * QA Report:
+ * - Branch isolada ✅
+ * - Código não quebra master ✅
+ * - Pronta para merge ✅
+ */
